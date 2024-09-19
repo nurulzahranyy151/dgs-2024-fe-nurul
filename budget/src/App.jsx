@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Finance from './component/Finance';
 import CategoryList from './component/CategoryList';
+import './App.css';
 
 function App() {
   return (
